@@ -1,4 +1,7 @@
-Week1Assignment.md
+Week1Assignment
+git add README.md
+git commit -m "Add Markdown content to README.md"
+git push
 
 ### What type is Git?
 
